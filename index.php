@@ -11,7 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-         echo "<h2>Hello World</h2>";
+        echo "<h2>Hello World</h2>";
         ?>
+        <a href="click.html">Click me</a>
+
     </body>
 </html>
